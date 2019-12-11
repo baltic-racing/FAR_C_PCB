@@ -1,0 +1,6 @@
+(optional)
+via in pads neu ausrichten
+leiterbahnen mittig machen
+leiterbahnanbindung an pads anschauen
+vias schönmachen
+u3 - c11 -j1 abstand
